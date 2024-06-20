@@ -1,0 +1,47 @@
+img{
+    width: 10%;
+    height: 10%;
+}
+
+body{
+    background-color: rgb(235, 198, 156);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12;
+    color: 808080;
+}
+
+hr{
+    /*linha sólida preta com 1 pixel de largura */
+    border: 1px solid;
+    border-color: #808080;
+    width: 250px;
+}
+
+#Kauã{
+    font-size: 400%;
+}
+
+#Projetos{
+    border-width: 15;
+    border-style: solid;
+    border-color: #808080;
+    width: 299px;
+    height: 305px;
+}
+
+#projetos2{
+    border-width: 10;
+    border-style: solid;
+    border-color: #808080;
+    width: 299px;
+}
